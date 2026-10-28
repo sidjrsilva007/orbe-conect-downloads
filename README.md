@@ -22,11 +22,11 @@ Requer Windows 10/11 de 64 bits. Não é preciso extrair ZIP ou instalar Node.js
 
 **O serviço de comunicação entre redes ainda está em configuração.** A página e os instaladores estão online; isso não significa que um servidor público de chamadas já esteja disponível.
 
-## Testar a atualização dentro do app
+## Atualizações do aplicativo
 
-Instale a [versão 0.3.0](https://github.com/sidjrsilva007/orbe-conect-downloads/releases/download/v0.3.0/OrbeConect-Setup.exe), abra o aplicativo e use o aviso para baixar a versão mais recente. A 0.3.2 está disponível para esse teste.
+A partir da versão 0.3.0, o Orbe Conect identifica novas versões e mostra um aviso no próprio aplicativo. Você pode baixar a atualização e confirmar **Reiniciar e instalar** quando estiver pronto. Encerre a chamada antes de reiniciar.
 
-Depois do download, saia da chamada e confirme **Reiniciar e instalar**. Se o aviso não aparecer, use **Verificar atualizações** nas configurações. Quem está na versão 0.2 precisa instalar o novo Setup.exe uma vez para habilitar o atualizador.
+A opção **Verificar atualizações** também está disponível nas configurações. Quem utiliza a versão 0.2 precisa instalar o novo Setup.exe uma vez para habilitar o atualizador.
 
 ## Arquivos das versões
 
