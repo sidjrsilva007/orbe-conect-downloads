@@ -12,11 +12,12 @@
 
 Requer Windows 10/11 de 64 bits. Não é preciso extrair ZIP ou instalar Node.js. O executável ainda não tem assinatura digital de editor.
 
-## Novidades da versão 0.8.0
+## Novidades da versão 0.9.0
 
-- Lembrar-me com sessão protegida pelo Windows no novo desktop, sem gravar a senha.
-- Voz com tratamento configurável e teste local de quatro segundos.
-- Áudio da tela separado das vozes, volume de até 200% e opção de ouvir somente a transmissão.
+- Interface em preto e violeta, com painéis de vidro fosco e bordas arredondadas.
+- Cores consistentes para chamadas, controles e navegação; layout adaptável e foco visível.
+- Acrílico nativo disponível no Windows 11 22H2 ou superior; Windows 10 mantém o vidro interno.
+- Sessão protegida, tratamento de voz e áudio das transmissões mantidos.
 
 ## Recursos
 
