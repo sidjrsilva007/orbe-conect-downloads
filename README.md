@@ -14,6 +14,7 @@ Requer Windows 10/11 de 64 bits. Não é preciso extrair ZIP ou instalar Node.js
 
 ## O que há nesta beta
 
+- Amigos por nome de usuário, solicitações com aceite e status online na mesma instalação do servidor.
 - Comunidades privadas e convites individuais.
 - Canais de texto com histórico e salas de voz para até dez pessoas.
 - Compartilhamento de janela ou tela com áudio opcional no Windows.
