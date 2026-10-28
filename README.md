@@ -24,7 +24,7 @@ Requer Windows 10/11 de 64 bits. Não é preciso extrair ZIP ou instalar Node.js
 
 ## Atualizações do aplicativo
 
-A partir da versão 0.3.0, o Orbe Conect identifica novas versões e mostra um aviso no próprio aplicativo. Você pode baixar a atualização e confirmar **Reiniciar e instalar** quando estiver pronto. Encerre a chamada antes de reiniciar.
+O Orbe Conect identifica novas versões dentro do aplicativo. Desde a 0.4.1, um ícone discreto de download aparece no topo. Clique para baixar, acompanhe a porcentagem e confirme **Abrir instalador**. O assistente mostra as etapas da atualização e permite abrir o Orbe ao concluir. Encerre a chamada antes de atualizar.
 
 A opção **Verificar atualizações** também está disponível nas configurações. Quem utiliza a versão 0.2 precisa instalar o novo Setup.exe uma vez para habilitar o atualizador.
 
