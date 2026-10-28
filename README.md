@@ -21,7 +21,7 @@ Requer Windows 10/11 de 64 bits. Não é preciso extrair ZIP ou instalar Node.js
 - Microfone, som da chamada e áudio da transmissão com controles separados.
 - Aviso de atualização dentro do aplicativo a partir da versão 0.3.0.
 
-**O serviço de comunicação entre redes ainda está em configuração.** A página e os instaladores estão online; isso não significa que um servidor público de chamadas já esteja disponível.
+**Versão 0.7.0:** contas, comunidades, chat e sinalização usam Supabase e Cloudflare Pages. O computador do criador pode ficar desligado. Entre com seu usuário e senha e gere convites novos. O plano gratuito tem limites e pode pausar por inatividade. Chamadas em redes restritivas podem exigir TURN; a conectividade entre provedores diferentes ainda precisa ser validada.
 
 ## Atualizações do aplicativo
 
@@ -51,4 +51,4 @@ Nenhum instalador inclui o banco, contas ou sessões da máquina de desenvolvime
 Fechar no X mantém o Orbe Conect na área de notificação. Para encerrar, use **Sair** no menu do ícone. Salas com cinco ou mais participantes reduzem a tela para até 480p/15 fps para priorizar a voz. O desempenho depende do computador e da conexão; ainda não houve validação com dez pessoas em redes diferentes.
 
 ## Servidor compartilhado de testes
-Na 0.6.0, o aplicativo se conecta ao mesmo endereço HTTPS para todos. O anfitrião precisa manter o computador ligado. Use o convite HTTPS, com usuário e senha individuais. A URL do túnel é temporária e pode mudar; o aplicativo consulta a configuração publicada no site. O túnel não equivale a hospedagem permanente.
+Na 0.7.0, o aplicativo se conecta ao mesmo endereço HTTPS para todos. O anfitrião precisa manter o computador ligado. Use o convite HTTPS, com usuário e senha individuais. A URL do túnel é temporária e pode mudar; o aplicativo consulta a configuração publicada no site. O túnel não equivale a hospedagem permanente.
