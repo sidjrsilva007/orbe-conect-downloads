@@ -1,2 +1,48 @@
-# orbe-conect-downloads
-Instaladores oficiais de teste do Orbe Conect. Sem código-fonte ou dados de usuários.
+# Orbe Conect para Windows
+
+**Voz, tela e companhia.** Um aplicativo para pequenos grupos, criado por **Sidney Junio Silva**.
+
+**[Baixar o instalador mais recente](https://github.com/sidjrsilva007/orbe-conect-downloads/releases/latest/download/OrbeConect-Setup.exe)** · **[Conhecer o aplicativo](https://orbe-conect.pages.dev/)** · **[Todas as versões](https://github.com/sidjrsilva007/orbe-conect-downloads/releases)**
+
+## Instalar
+
+1. Baixe `OrbeConect-Setup.exe`.
+2. Abra o instalador e siga as etapas em português.
+3. Inicie o Orbe Conect pelo atalho e entre na sua conta.
+
+Requer Windows 10/11 de 64 bits. Não é preciso extrair ZIP ou instalar Node.js. O executável ainda não tem assinatura digital de editor.
+
+## O que há nesta beta
+
+- Comunidades privadas e convites individuais.
+- Canais de texto com histórico e salas de voz para até quatro pessoas.
+- Compartilhamento de janela ou tela com áudio opcional no Windows.
+- Microfone, som da chamada e áudio da transmissão com controles separados.
+- Aviso de atualização dentro do aplicativo a partir da versão 0.3.0.
+
+**O serviço de comunicação entre redes ainda está em configuração.** A página e os instaladores estão online; isso não significa que um servidor público de chamadas já esteja disponível.
+
+## Testar a atualização dentro do app
+
+Instale a [versão 0.3.0](https://github.com/sidjrsilva007/orbe-conect-downloads/releases/download/v0.3.0/OrbeConect-Setup.exe), abra o aplicativo e use o aviso para baixar a versão mais recente. A 0.3.2 está disponível para esse teste.
+
+Depois do download, saia da chamada e confirme **Reiniciar e instalar**. Se o aviso não aparecer, use **Verificar atualizações** nas configurações. Quem está na versão 0.2 precisa instalar o novo Setup.exe uma vez para habilitar o atualizador.
+
+## Arquivos das versões
+
+O download para uso normal é somente o **Setup.exe**. Os outros arquivos têm finalidade técnica:
+
+| Arquivo | Finalidade |
+| --- | --- |
+| `OrbeConect-Setup.exe` | Instalador do aplicativo |
+| `latest.yml` | Versão e checksum usados pelo atualizador |
+| `OrbeConect-Setup.exe.blockmap` | Metadados para o download de atualização |
+| `SHA256SUMS.txt` | Verificação manual da integridade do instalador |
+
+Os arquivos automáticos de código-fonte que o GitHub apresenta nas releases correspondem a este repositório de informações de download. O código de desenvolvimento do aplicativo permanece em outro repositório, privado durante os testes.
+
+Nenhum instalador inclui o banco, contas ou sessões da máquina de desenvolvimento. Preserve sua pasta de dados ao atualizar. Não envie senhas, sessões ou banco de dados em relatos de erro.
+
+---
+
+© 2026 **Sidney Junio Silva**, criador do Orbe Conect. Marca e identidade visual mantêm os créditos de autoria. Informações de licença acompanham o aplicativo.
