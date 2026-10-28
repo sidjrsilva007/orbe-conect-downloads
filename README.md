@@ -15,7 +15,7 @@ Requer Windows 10/11 de 64 bits. Não é preciso extrair ZIP ou instalar Node.js
 ## O que há nesta beta
 
 - Comunidades privadas e convites individuais.
-- Canais de texto com histórico e salas de voz para até quatro pessoas.
+- Canais de texto com histórico e salas de voz para até dez pessoas.
 - Compartilhamento de janela ou tela com áudio opcional no Windows.
 - Microfone, som da chamada e áudio da transmissão com controles separados.
 - Aviso de atualização dentro do aplicativo a partir da versão 0.3.0.
@@ -46,3 +46,5 @@ Nenhum instalador inclui o banco, contas ou sessões da máquina de desenvolvime
 ---
 
 © 2026 **Sidney Junio Silva**, criador do Orbe Conect. Marca e identidade visual mantêm os créditos de autoria. Informações de licença acompanham o aplicativo.
+
+Fechar no X mantém o Orbe Conect na área de notificação. Para encerrar, use **Sair** no menu do ícone. Salas com cinco ou mais participantes reduzem a tela para até 480p/15 fps para priorizar a voz. O desempenho depende do computador e da conexão; ainda não houve validação com dez pessoas em redes diferentes.
