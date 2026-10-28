@@ -49,3 +49,6 @@ Nenhum instalador inclui o banco, contas ou sessões da máquina de desenvolvime
 © 2026 **Sidney Junio Silva**, criador do Orbe Conect. Marca e identidade visual mantêm os créditos de autoria. Informações de licença acompanham o aplicativo.
 
 Fechar no X mantém o Orbe Conect na área de notificação. Para encerrar, use **Sair** no menu do ícone. Salas com cinco ou mais participantes reduzem a tela para até 480p/15 fps para priorizar a voz. O desempenho depende do computador e da conexão; ainda não houve validação com dez pessoas em redes diferentes.
+
+## Servidor compartilhado de testes
+Na 0.6.0, o aplicativo se conecta ao mesmo endereço HTTPS para todos. O anfitrião precisa manter o computador ligado. Use o convite HTTPS, com usuário e senha individuais. A URL do túnel é temporária e pode mudar; o aplicativo consulta a configuração publicada no site. O túnel não equivale a hospedagem permanente.
