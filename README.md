@@ -12,7 +12,13 @@
 
 Requer Windows 10/11 de 64 bits. Não é preciso extrair ZIP ou instalar Node.js. O executável ainda não tem assinatura digital de editor.
 
-## O que há nesta beta
+## Novidades da versão 0.8.0
+
+- Lembrar-me com sessão protegida pelo Windows no novo desktop, sem gravar a senha.
+- Voz com tratamento configurável e teste local de quatro segundos.
+- Áudio da tela separado das vozes, volume de até 200% e opção de ouvir somente a transmissão.
+
+## Recursos
 
 - Amigos por nome de usuário, solicitações com aceite e status online na mesma instalação do servidor.
 - Comunidades privadas e convites individuais.
