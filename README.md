@@ -12,12 +12,14 @@
 
 Requer Windows 10/11 de 64 bits. Não é preciso extrair ZIP ou instalar Node.js. O executável ainda não tem assinatura digital de editor.
 
-## Novidades da versão 0.9.0
+## Novidades da versão 0.10.0
 
-- Interface em preto e violeta, com painéis de vidro fosco e bordas arredondadas.
-- Cores consistentes para chamadas, controles e navegação; layout adaptável e foco visível.
-- Acrílico nativo disponível no Windows 11 22H2 ou superior; Windows 10 mantém o vidro interno.
-- Sessão protegida, tratamento de voz e áudio das transmissões mantidos.
+- Som da transmissão capturado do aplicativo escolhido no Windows, separado da conversa.
+- Microfone e reprodução da chamada continuam ativos durante o compartilhamento.
+- RNNoise local, perfis de voz, controle do silêncio e seleção de fone/alto-falante.
+- Configurações organizadas por voz, transmissão, perfil e conta.
+
+O som de um navegador pode incluir outras abas em reprodução. Prefira fones para reduzir eco acústico; não há promessa de ruído ou retorno zero em qualquer equipamento.
 
 ## Recursos
 
